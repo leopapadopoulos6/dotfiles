@@ -1,0 +1,7 @@
+2024-06-13 12:12:08.132 [info] update#setState disabled
+2024-06-13 12:12:08.134 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-13 12:17:37.358 [info] Extension host with pid 7375 exited with code: 0, signal: unknown.
+2024-06-13 16:36:08.407 [error] ptyHost terminated unexpectedly with code 0
+2024-06-13 16:36:08.417 [warning] [UtilityProcess type: ptyHost, pid: 8887]: unable to kill the process
+2024-06-13 16:36:08.428 [info] Extension host with pid 8816 exited with code: 0, signal: unknown.
+2024-06-13 16:36:08.443 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

@@ -1,0 +1,182 @@
+[2024-06-13 00:14:52.640] [info]  [AppEvents] App started
+[2024-06-13 00:14:52.840] [info]  [PluginHandler] Loaded plugins: []
+[2024-06-13 00:14:58.927] [info]  [AppEvents] App ready
+[2024-06-13 00:14:58.929] [info]  [Cider] Application is Ready. Creating Window.
+[2024-06-13 00:14:58.930] [info]  aa
+[2024-06-13 00:14:58.932] [info]  [Cider] Creating Window.
+[2024-06-13 00:14:58.950] [info]  Setting up handlers for local files
+[2024-06-13 00:14:58.966] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-06-13 00:14:59.056] [info]  WebSocketServer started on port: 26369
+[2024-06-13 00:14:59.059] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'updated',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-06-13 00:14:59.087] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7171,
+      driverVendor: 'Nvidia',
+      driverVersion: '550.90.07',
+      gpuPreference: 0,
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16018,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-06-13 00:14:59.087] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-06-13 00:14:59.088] [info]  Cider client port: 9000
+[2024-06-13 00:14:59.090] [info]  Cider remote port: 6942
+[2024-06-13 00:14:59.091] [info]  remote broadcasted
+[2024-06-13 00:15:55.627] [info]  cookies {
+  'music.ampwebplay.itspod': '9',
+  'music.ampwebplay.pltvcid': '76cd66f6e3384e2384cbc3f20dacee8e009',
+  'music.ampwebplay.pldfltcid': 'd85df105bbbc4fa293b5633f0895936d009',
+  'music.ampwebplay.itua': 'US',
+  'music.ampwebplay.media-user-token': 'AmAy7rBGInzm8/7gza00/1NfsuUWxIoj57i/mP4ksH3xsyehyvu1H/dTaWANp3S+gC6T1cpY+HpwDVKY2vWUXb/Y56QgO8VQWOerbKaGbvl6kHpsWoLmk4kkowrU07JGPvmr/VMM8TSYiaONZzEOqgugyzABne1g0Z9BD2ed0fSyEUqL7t8TnOVumm3k5V/GbEZZfbK6fwDghAWNcGjA7EBn99iQK+9XLKboGLPbiA0j47IqPA==',
+  'music.ampwebplay.dslang': 'US-EN'
+}
+[2024-06-13 00:20:07.768] [warn]  Cider exited.
+[2024-06-13 00:22:08.077] [info]  [AppEvents] App started
+[2024-06-13 00:22:08.300] [info]  [PluginHandler] Loaded plugins: []
+[2024-06-13 00:22:14.315] [info]  [AppEvents] App ready
+[2024-06-13 00:22:14.315] [info]  [Cider] Application is Ready. Creating Window.
+[2024-06-13 00:22:14.315] [info]  aa
+[2024-06-13 00:22:14.316] [info]  [Cider] Creating Window.
+[2024-06-13 00:22:14.341] [info]  Setting up handlers for local files
+[2024-06-13 00:22:14.350] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-06-13 00:22:14.460] [info]  WebSocketServer started on port: 26369
+[2024-06-13 00:22:14.465] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-06-13 00:22:14.497] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7171,
+      driverVendor: 'Nvidia',
+      driverVersion: '550.90.07',
+      gpuPreference: 0,
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16018,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-06-13 00:22:14.497] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-06-13 00:22:14.498] [info]  Cider client port: 9000
+[2024-06-13 00:22:14.500] [info]  Cider remote port: 6942
+[2024-06-13 00:22:14.501] [info]  remote broadcasted
+[2024-06-13 00:54:14.571] [warn]  Cider exited.
+[2024-06-13 17:51:15.732] [info]  [AppEvents] App started
+[2024-06-13 17:51:16.016] [info]  [PluginHandler] Loaded plugins: []
+[2024-06-13 17:51:22.068] [info]  [AppEvents] App ready
+[2024-06-13 17:51:22.070] [info]  [Cider] Application is Ready. Creating Window.
+[2024-06-13 17:51:22.071] [info]  aa
+[2024-06-13 17:51:22.072] [info]  [Cider] Creating Window.
+[2024-06-13 17:51:22.086] [info]  Setting up handlers for local files
+[2024-06-13 17:51:22.101] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-06-13 17:51:22.213] [info]  WebSocketServer started on port: 26369
+[2024-06-13 17:51:22.219] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-06-13 17:51:22.248] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7171,
+      driverVendor: 'Nvidia',
+      driverVersion: '550.90.07',
+      gpuPreference: 0,
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16018,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-06-13 17:51:22.249] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-06-13 17:51:22.249] [info]  Cider client port: 9000
+[2024-06-13 17:51:22.251] [info]  Cider remote port: 6942
+[2024-06-13 17:51:22.253] [info]  remote broadcasted
+[2024-06-13 17:51:29.387] [warn]  Cider exited.

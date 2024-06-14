@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/doc/peaclock/README.md
+File2[$e]=$HOME/Themes/mybash/README.md
+Name1[$e]=README.md
+Name2[$e]=README.md

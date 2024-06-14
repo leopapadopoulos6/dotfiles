@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=vim.desktop;
+application/x-zerosize=xed.desktop;
+
+[Default Applications]
+application/x-zerosize=xed.desktop
