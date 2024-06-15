@@ -1,0 +1,85 @@
+lavat
+(Usage: lavat [OPTIONS]
+OPTIONS:
+  -c <COLOR>          Set color. Available colours: red, blue, yellow, green, cyan, magenta, white and black.
+  -s <SPEED>          Set the speed, from 1 to 10. (default 5)
+  -r <RADIUS>         Set the radius of the metaballs, from 1 to 10. (default: 5)
+  -R <RIM>            Set a rim for each metaball, sizes from 1 to 5.(default: none)
+                      This option does not work with the default color
+                      If you use Kitty or Alacritty you must use it with the -k option to see the rim.
+  -k <COLOR>          Set the color of the rim if there is one. Available colours: red, blue, yellow, green, cyan, magenta, white and black.
+  -b <NBALLS>         Set the number of metaballs in the simulation, from 5 to 20. (default: 10)
+  -F <CHARS>          Allows for a custom set of chars to be used
+                      Only ascii symbols are supported for now, wide/unicode chars may appear broken.
+  -C                  Retain the entire lava inside the terminal.
+                      It may not work well with a lot of balls or with a bigger radius than the default one.
+  -p <MODE>           PARTY!! THREE MODES AVAILABLE (p1, p2 and p3).
+  -h                  Print help.
+RUNTIME CONTROLS:
+  i                   Increase radius of the metaballs.
+  d                   Decrease radius of the metaballs.
+  shift i             Increase rim of the metaballs.
+  shift d             Decrease rim of the metaballs.
+  m                   Increase the number of metaballs.
+  l                   Decrease the number metaballs.
+  c                   Change the color of the metaballs.
+  k                   Change the rim color of the metaballs.
+  +                   Increase speed.
+  -                   Decrease speed.
+  p                   TURN ON THE PARTY AND CYCLE THROUGH THE PARTY MODES (it can also turns off the party).
+(Tip: Zoom out in your terminal before running the program to get a better resolution of the lava).)
+(r=How far apart, first color is the main part, second is the shadow color)
+lavat -c yellow -R1 -k red 
+lavat -c yellow -R4 -k red
+lavat -p3
+lavat -c red -R 1
+lavat -c cyan -R 4 -b 20 -r 2
+lavat -c blue -R2 -F @@:::::: -r2
+lavat -c blue -R2 -F LEOOOO -r2
+lavat -c blue -R2 -F LEOOOO -r2 -k blue
+
+cmatrix
+( Usage: cmatrix -[abBcfhlsmVx] [-u delay] [-C color]
+ -a: Asynchronous scroll
+ -b: Bold characters on
+ -B: All bold characters (overrides -b)
+ -c: Use Japanese characters as seen in the original matrix. Requires appropriate fonts
+ -f: Force the linux $TERM type to be on
+ -l: Linux mode (uses matrix console font)
+ -L: Lock mode (can be closed from another terminal)
+ -o: Use old-style scrolling
+ -h: Print usage and exit
+ -n: No bold characters (overrides -b and -B, default)
+ -s: "Screensaver" mode, exits on first keystroke
+ -x: X window mode, use if your xterm is using mtx.pcf
+ -V: Print version information and exit
+ -u delay (0 - 10, default 4): Screen update delay
+ -C [color]: Use this color for matrix (default green)
+ -r: rainbow mode
+ -m: lambda mode )
+cmatrix -s (screensaver)
+cmatrix -ba -u 2 -C red
+cmatrix -u 9 (slow)
+
+pipes.sh
+(Usage: pipes.sh [OPTION]...
+Animated pipes terminal screensaver.
+
+ -p [1-]	number of pipes (D=1).
+ -t [0-9]	type of pipes, can be used more than once (D=0).
+ -c [0-7]	color of pipes, can be used more than once (D=1 2 3 4 5 6 7 0).
+ -t c[16 chars]	custom type of pipes.
+ -f [20-100]	framerate (D=75).
+ -s [5-15]	probability of a straight fitting (D=13).
+ -r LIMIT	reset after x characters, 0 if no limit (D=2000).
+ -R 		randomize starting position and direction.
+ -B 		no bold effect.
+ -C 		no color.
+ -K 		pipes keep their color and type when hitting the screen edge.
+ -h		help (this screen).
+ -v		print version number.)
+pipes.sh -t #1-9
+
+asciiquarium
+
+peaclock
