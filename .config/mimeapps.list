@@ -1,6 +1,18 @@
 [Added Associations]
-text/plain=vim.desktop;
+text/plain=sublime_text.desktop;xed.desktop;nvim.desktop;vim.desktop;
 application/x-zerosize=xed.desktop;
+inode/symlink=nvim.desktop;Alacritty.desktop;
+application/x-trash=nvim.desktop;
+application/x-shellscript=nvim.desktop;sublime_text.desktop;xed.desktop;
+text/x-csrc=sublime_text.desktop;
+text/x-python3=sublime_text.desktop;
+text/html=sublime_text.desktop;
+text/x-c++src=sublime_text.desktop;
+application/toml=sublime_text.desktop;
+text/x-chdr=sublime_text.desktop;
 
 [Default Applications]
 application/x-zerosize=xed.desktop
+text/plain=nvim.desktop
+inode/symlink=Alacritty.desktop
+application/x-trash=nvim.desktop

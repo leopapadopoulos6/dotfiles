@@ -1,2 +1,3 @@
-2024/06/12-18:19:41.400 117c1 Creating DB /home/leo/.config/Electron/Session Storage since it was missing.
-2024/06/12-18:19:41.418 117c1 Reusing MANIFEST /home/leo/.config/Electron/Session Storage/MANIFEST-000001
+2024/06/24-18:50:18.589 284d Reusing MANIFEST /home/leo/.config/Electron/Session Storage/MANIFEST-000001
+2024/06/24-18:50:18.589 284d Recovering log #3
+2024/06/24-18:50:18.598 284d Reusing old log /home/leo/.config/Electron/Session Storage/000003.log 

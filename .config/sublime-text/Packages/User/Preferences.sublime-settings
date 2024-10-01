@@ -1,0 +1,9 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"dark_theme": "Gruvbox Material Dark.sublime-theme",
+	"light_theme": "Gruvbox Material Dark.sublime-theme",
+	"theme": "Gruvbox Material Dark.sublime-theme",
+}

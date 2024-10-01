@@ -1,0 +1,36 @@
+2024-06-21 20:37:27.177 [info] Started local extension host with pid 7199.
+2024-06-21 20:37:30.101 [info] [perf] Render performance baseline is 40ms
+2024-06-21 22:27:47.141 [error] Error: file:///home/leo/Projects/nidas.dev/nidas.dev/src/index.js has changed in the meantime
+    at c.q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:810:9639)
+    at c.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:810:10498)
+    at p.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:24730)
+    at p.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:24195)
+    at y.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:25965)
+    at m.$tryApplyWorkspaceEdit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1693:17535)
+    at y.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:14598)
+    at y.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:14364)
+    at y.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:13397)
+    at y.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:12453)
+    at u.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:10928)
+    at h.y (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:615:14848)
+    at U.onmessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1673:8154)
+2024-06-21 22:27:47.142 [warning] IGNORING workspace edit: Error: file:///home/leo/Projects/nidas.dev/nidas.dev/src/index.js has changed in the meantime
+2024-06-23 17:19:35.963 [error] Error: file:///home/leo/Projects/nidas.dev/nidas.dev/src/themes/Card.js has changed in the meantime
+    at c.q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:810:9639)
+    at c.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:810:10498)
+    at p.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:24730)
+    at p.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:24195)
+    at y.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2202:25965)
+    at m.$tryApplyWorkspaceEdit (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1693:17535)
+    at y.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:14598)
+    at y.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:14364)
+    at y.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:13397)
+    at y.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:12453)
+    at u.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1658:10928)
+    at h.y (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at h.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:615:14848)
+    at U.onmessage (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1673:8154)
+2024-06-23 17:19:35.964 [warning] IGNORING workspace edit: Error: file:///home/leo/Projects/nidas.dev/nidas.dev/src/themes/Card.js has changed in the meantime

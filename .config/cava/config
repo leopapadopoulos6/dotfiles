@@ -23,7 +23,7 @@
 # The number of bars (0-512). 0 sets it to auto (fill up console).
 # Bars' width and space between bars in number of characters.
 ; bars = 0
-; bar_width = 2
+; bar_width = 4
 ; bar_spacing = 1
 # bar_height is only used for output in "noritake" format
 ; bar_height = 32
@@ -79,8 +79,8 @@
 # For jack 'source' will be the name of the JACK server to connect to, e.g. 'foobar'. Default: 'default'.
 # README.md contains further information on how to setup CAVA for JACK.
 #
-; method = pulse
-; source = auto
+method = pulse
+source = auto
 
 ; method = pipewire
 ; source = auto
@@ -217,7 +217,7 @@
 # a terminal that can change color definitions such as Gnome-terminal or rxvt.
 # default is to keep current terminal color
 ; background = default
-; foreground = default
+foreground = magenta
 
 # SDL and sdl_glsl only support hex code colors, these are the default:
 ; background = '#111111'

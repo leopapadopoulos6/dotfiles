@@ -11,5 +11,17 @@ ToolBarsMovable=Disabled
 [Recent Files]
 File1[$e]=/usr/share/doc/peaclock/README.md
 File2[$e]=$HOME/Themes/mybash/README.md
+File3[$e]=$HOME/Documents/linux-cheat-sheet.pdf
+File4[$e]=$HOME/Documents/vim-commands.pdf
+File5[$e]=$HOME/Downloads/Android-TV-User-Guide_US-04-23.pdf
+File6[$e]=$HOME/Downloads/resume2.pdf
+File7[$e]=$HOME/Documents/resume_&_cover_letter.pdf
+File8[$e]=$HOME/Documents/resume2.pdf
 Name1[$e]=README.md
 Name2[$e]=README.md
+Name3[$e]=linux-cheat-sheet.pdf
+Name4[$e]=vim-commands.pdf
+Name5[$e]=Android-TV-User-Guide_US-04-23.pdf
+Name6[$e]=resume2.pdf
+Name7[$e]=resume_&_cover_letter.pdf
+Name8[$e]=resume2.pdf

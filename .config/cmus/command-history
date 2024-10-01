@@ -1,1 +1,8 @@
+quit
+a
+save
+add /home/leo/Music
+set shuffle?
+set shuffle=true
+:set shuffle=true
 q

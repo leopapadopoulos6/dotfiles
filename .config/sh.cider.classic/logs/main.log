@@ -180,3 +180,61 @@
 [2024-06-13 17:51:22.251] [info]  Cider remote port: 6942
 [2024-06-13 17:51:22.253] [info]  remote broadcasted
 [2024-06-13 17:51:29.387] [warn]  Cider exited.
+[2024-06-25 17:52:55.258] [info]  [AppEvents] App started
+[2024-06-25 17:52:55.493] [info]  [PluginHandler] Loaded plugins: []
+[2024-06-25 17:52:56.575] [info]  [AppEvents] App ready
+[2024-06-25 17:52:56.577] [info]  [Cider] Application is Ready. Creating Window.
+[2024-06-25 17:52:56.578] [info]  aa
+[2024-06-25 17:52:56.580] [info]  [Cider] Creating Window.
+[2024-06-25 17:52:56.615] [info]  Setting up handlers for local files
+[2024-06-25 17:52:56.625] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-06-25 17:52:56.733] [info]  WebSocketServer started on port: 26369
+[2024-06-25 17:52:56.739] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-06-25 17:52:56.792] [info]  {
+  auxAttributes: {
+    amdSwitchable: false,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: true,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 7171,
+      driverVendor: 'Nvidia',
+      driverVersion: '550.90.07',
+      gpuPreference: 0,
+      vendorId: 4318
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 16018,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-06-25 17:52:56.793] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-06-25 17:52:56.793] [info]  Cider client port: 9000
+[2024-06-25 17:52:56.795] [info]  Cider remote port: 6942
+[2024-06-25 17:52:56.796] [info]  remote broadcasted
+[2024-06-25 17:53:11.576] [warn]  Cider exited.

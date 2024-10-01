@@ -1,3 +1,7 @@
+wallpapers
+feh --bg-scale --randomize /home/leo/Pictures/Wallpapers/*
+feh --bg-scale ~/Pictures/Wallpapers/$(ls -Rp ~/Pictures/Wallpapers | grep -v / | shuf -n 1)
+
 lavat
 (Usage: lavat [OPTIONS]
 OPTIONS:
@@ -32,7 +36,8 @@ RUNTIME CONTROLS:
 lavat -c yellow -R1 -k red 
 lavat -c yellow -R4 -k red
 lavat -p3
-lavat -c red -R 1
+lavat -c red -R1
+lavat -c magenta -R1
 lavat -c cyan -R 4 -b 20 -r 2
 lavat -c blue -R2 -F @@:::::: -r2
 lavat -c blue -R2 -F LEOOOO -r2
@@ -60,6 +65,7 @@ cmatrix
 cmatrix -s (screensaver)
 cmatrix -ba -u 2 -C red
 cmatrix -u 9 (slow)
+cmatrix -s -u 9 -o -C red (screensaver, slow 9, old style red)
 
 pipes.sh
 (Usage: pipes.sh [OPTION]...
